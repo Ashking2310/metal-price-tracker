@@ -1,2 +1,17 @@
-# metal-price-tracker
-Python tool that tracks Aluminium and Copper prices and visualizes trends.
+# Metal Price Tracker
+
+This project tracks Aluminium and Copper prices and visualizes them using Python.
+
+Features
+- Downloads metal price data
+- Plots price charts
+- Tracks Aluminium and Copper
+
+Technologies
+Python
+Matplotlib
+YFinance
+
+Author
+Ansh Razdan
+Cardiff University
